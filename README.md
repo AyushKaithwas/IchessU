@@ -1,3 +1,5 @@
+# This README.md is just sample right now, it'll be updated later, don't follow the steps
+
 # IChessU
 
 ## Overview
@@ -26,7 +28,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/IChessU.git
+git clone https://github.com/AyushKaithwas/IchessU.gitt
 ```
 
 2. Navigate into the project directory and install the dependencies:
